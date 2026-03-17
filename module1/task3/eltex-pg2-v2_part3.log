@@ -1,0 +1,14 @@
+mkdir -p D1/D2/D3
+touch D1/D2/file.txt
+echo "hi" > D1/D2/file.txt
+ln -s ../file.txt D1/D2/D3/file_symlink.txt
+ln D1/D2/file.txt D1/D2/D3/file_hardlink.txt
+ls -l D1/D2/D3
+mv D1/D2/file.txt D1/
+cat D1/D2/D3/file_hardlink.txt
+rm -r D1/D2
+find / -type f -size +20M 2>/dev/null > eltex-pg2-v2_part3_gt50M.log
+find ~ -type f -mtime -1
+which find
+file /usr/bin/find
+file /boot/initrd.img*

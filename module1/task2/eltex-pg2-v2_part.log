@@ -1,0 +1,892 @@
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls
+ls           lsb_release  lsinitramfs  lslocks      lsmod        lspci
+lsattr       lscpu        lsipc        lslogins     lsns         lsusb
+lsblk        lsfd         lsirq        lsmem        lsof         
+[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls
+ls           lsb_release  lsinitramfs  lslocks      lsmod        lspci
+lsattr       lscpu        lsipc        lslogins     lsns         lsusb
+lsblk        lsfd         lsirq        lsmem        lsof         
+[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K[K$HIST
+$HISTCMD       $HISTCONTROL   $HISTFILE      $HISTFILESIZE  $HISTSIZE
+[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ $HIST[K[K[K[K[Kусрощ[K[K[K[K[Kecho $HUS[KIST[K[K[K[KISTFILESIZE 
+[?2004l2000
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls ё[K`[K~/.*
+[?2004l/home/eltex-pg2-v2/.bash_history  /home/eltex-pg2-v2/.profile
+/home/eltex-pg2-v2/.bash_logout   [0m[00;90m/home/eltex-pg2-v2/.report_part1.txt.swp[0m
+/home/eltex-pg2-v2/.bashrc        /home/eltex-pg2-v2/.viminfo
+
+/home/eltex-pg2-v2/.config:
+[01;34mprocps[0m
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ рш[K[Khistory
+[?2004l    1  w
+    2  screen -ls
+    3  screen -S
+    4  screen -S -d -m
+    5  screen -r
+    6  screen -S -d -m
+    7  screen -r
+    8  screen -ls
+    9  screen -S -m -d
+   10  screen -S -d -m
+   11  screen -r 
+   12  top
+   13  w
+   14  scren
+   15  screen
+   16  screen -S top -d -m top
+   17  screen -S TOP -d -m top
+   18  screen -ls
+   19  screen -r top
+   20  watch /usr/bin/vmstat
+   21  screem -ls
+   22  screen -ls
+   23  screen -S Top -d -m top
+   24  screen -r Top
+   25  screen -ls
+   26  screen -r Top
+   27  screen -ls
+   28  killall screen
+   29  screen -ls
+   30  pkill screen
+   31  screen -ls
+   32  screen -S
+   33  screen -S 
+   34  screen
+   35  screen -S top -d -m top
+   36  screen -r top
+   37  screen -ls
+   38  screen -r top
+   39  screen -S newS -d -m vi report_part1.txt
+   40  screen -r newS 
+   41  screen -ls
+   42  logout
+   43  screen -l
+   44  screen -r newS 
+   45  screen -ls
+   46  screen -S newS -d -m vi report_part1.txt
+   47  screen -r newS 
+   48  screen -ls
+   49  exit
+   50  screen -ls
+   51  screen -r newS 
+   52  screen -ls
+   53  screen -S newSession vi report_part1.txt
+   54  screen -ls
+   55  logout
+   56  echo $HISTFILESIZE 
+   57  ls ~/.*
+   58  history
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ historyls ~/.*echo $HISTFILESIZE logout[Kscreen -lsS newSession vi report_part1.txtls[Kr newS ls[K[6Pexitscreen -lsr newS S newS -d -m vi report_part1.txtls[Kr newS l[K[3Plogoutscreen -lsr newS S newS -d -m vi report_part1.txtr top[KS newS -d -m vi report_part1.txtr newS [Kls[K[4Plogoutscreen -lr newS ls[KS newS -d -m vi report_part1.txtr newS [Kls[K[6Pexitscreen -lsr newS ls[KS newSession vi report_part1.txtls[K[4Plogoutecho $HISTFILESIZE [12Pls ~/.*history[Kexport HISTTi[KIMEFORMAT [K-[K=''%'d'.'%'m'.'%'Y' '&'[1P'^'[1P'&'[1P'%'H':'&'[1P'^'[1P'&'[1P'%'M':'%'S' '
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ hostory[K[K[K[K[K[Kistory
+[?2004l    1  11.03.2026 18:35:28 w
+    2  11.03.2026 18:35:28 screen -ls
+    3  11.03.2026 18:35:28 screen -S
+    4  11.03.2026 18:35:28 screen -S -d -m
+    5  11.03.2026 18:35:28 screen -r
+    6  11.03.2026 18:35:28 screen -S -d -m
+    7  11.03.2026 18:35:28 screen -r
+    8  11.03.2026 18:35:28 screen -ls
+    9  11.03.2026 18:35:28 screen -S -m -d
+   10  11.03.2026 18:35:28 screen -S -d -m
+   11  11.03.2026 18:35:28 screen -r 
+   12  11.03.2026 18:35:28 top
+   13  11.03.2026 18:35:28 w
+   14  11.03.2026 18:35:28 scren
+   15  11.03.2026 18:35:28 screen
+   16  11.03.2026 18:35:28 screen -S top -d -m top
+   17  11.03.2026 18:35:28 screen -S TOP -d -m top
+   18  11.03.2026 18:35:28 screen -ls
+   19  11.03.2026 18:35:28 screen -r top
+   20  11.03.2026 18:35:28 watch /usr/bin/vmstat
+   21  11.03.2026 18:35:28 screem -ls
+   22  11.03.2026 18:35:28 screen -ls
+   23  11.03.2026 18:35:28 screen -S Top -d -m top
+   24  11.03.2026 18:35:28 screen -r Top
+   25  11.03.2026 18:35:28 screen -ls
+   26  11.03.2026 18:35:28 screen -r Top
+   27  11.03.2026 18:35:28 screen -ls
+   28  11.03.2026 18:35:28 killall screen
+   29  11.03.2026 18:35:28 screen -ls
+   30  11.03.2026 18:35:28 pkill screen
+   31  11.03.2026 18:35:28 screen -ls
+   32  11.03.2026 18:35:28 screen -S
+   33  11.03.2026 18:35:28 screen -S 
+   34  11.03.2026 18:35:28 screen
+   35  11.03.2026 18:35:28 screen -S top -d -m top
+   36  11.03.2026 18:35:28 screen -r top
+   37  11.03.2026 18:35:28 screen -ls
+   38  11.03.2026 18:35:28 screen -r top
+   39  11.03.2026 18:35:28 screen -S newS -d -m vi report_part1.txt
+   40  11.03.2026 18:35:28 screen -r newS 
+   41  11.03.2026 18:35:28 screen -ls
+   42  11.03.2026 18:35:28 logout
+   43  11.03.2026 18:35:28 screen -l
+   44  11.03.2026 18:35:28 screen -r newS 
+   45  11.03.2026 18:35:28 screen -ls
+   46  11.03.2026 18:35:28 screen -S newS -d -m vi report_part1.txt
+   47  11.03.2026 18:35:28 screen -r newS 
+   48  11.03.2026 18:35:28 screen -ls
+   49  11.03.2026 18:35:28 exit
+   50  11.03.2026 18:35:28 screen -ls
+   51  11.03.2026 18:35:28 screen -r newS 
+   52  11.03.2026 18:35:28 screen -ls
+   53  11.03.2026 18:35:28 screen -S newSession vi report_part1.txt
+   54  11.03.2026 18:35:28 screen -ls
+   55  11.03.2026 18:35:28 logout
+   56  11.03.2026 18:42:23 echo $HISTFILESIZE 
+   57  11.03.2026 18:51:49 ls ~/.*
+   58  11.03.2026 18:54:35 history
+   59  11.03.2026 18:56:19 export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '
+   60  11.03.2026 18:56:29 history
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kls ~/.*echo $HISTFILESIZE logout[Kscreen -lsS newSession vi report_part1.txtls[KS newSession vi report_part1.txtls[K[4Plogoutecho $HISTFILESIZE [12Pls ~/.*historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[K[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kls ~/.*echo $HISTFILESIZE logout[Kscreen -lsS newSession vi report_part1.txtls[Kr newS ls[K[6Pexitscreen -lsr newS S newS -d -m vi report_part1.txtr newS [Kls[K[6Pexitscreen -lsr newS ls[KS newSession vi report_part1.txtls[K[4Plogoutecho $HISTFILESIZE [12Pls ~/.*historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[Khistoryexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kls ~/.*echo $HISTFILESIZE [12Pls ~/.*historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[Khistoryexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[Kls ~/.*echo $HISTFILESIZE logout[Kscreen -lsS newSession vi report_part1.txtls[Kr newS ls[K[6Pexitscreen -lsr newS S newS -d -m vi report_part1.txtls[Kr newS l[K[3Plogoutscreen -lsr newS S newS -d -m vi report_part1.txtr top[K[3Plsr top[10@S top -d -m[C[C[C[C[K -S [Klspkill screen[2Pscreen -lskillall screen[4Pscreen -lsr Top[3Plsr Top[K[K[K[K[K[K[K[K[K[K[K[K[Kscreen -S Top -d -m topls[Km[C[C[C[Cwatch /usr/bin/vmstat[8Pscreen -r top[3PlsS TOP -d -m toptop[C[C[C[C[C[C[C[C[C[C[K[1Pnw[Ktopscreen -r S -d -mm -dls[K[1PrS -d -mr[KS -d -m[Klsw[Kscreen -ls[1PS -d -mr[KS -d -mr[KlsS -m -dd -mr [Ktop[K[2Pwscrenen -S top -d -m topTOP[C[C[C[C[C[C[C[C[C[Cls[Kr topwatch /usr/bin/vmstat[11Pscreem -lsn[C[C[C[CS Top -d -m top[Kscreen -lsr Top[3Plskillall screen[4Pscreen -lspkill screen[2Pscreen -ls[1PS [K -S top -d -m top[10Pr[C[C[C[C[3Plsr topS newS -d -m vi report_part1.txtr newS [Kls[Kr newS S newS -d -m vi report_part1.txtr top[K[3Plsr top[10@S top -d -m[C[C[C[C[K -S [Klspkill screen[2Pscreen -lskillall screen[4Pscreen -lsr Top[3Pls[Kscreen -S Top -d -m topls[Km[C[C[C[Cwatch /usr/bin/vmstat[8Pscreen -r top[3PlsS TOP -d -m toptop[C[C[C[C[C[C[C[C[C[CTOP[C[C[C[C[C[C[C[C[C[Cls[Kr topwatch /usr/bin/vmstat[11Pscreem -lsn[C[C[C[CS Top -d -m top[Kscreen -lsr Top[3Plskillall screen[4Pscreen -lspkill screen[2Pscreen -ls[1PS [K -S top -d -m top[10Pr[C[C[C[C[3Plsr topS newS -d -m vi report_part1.txtr newS [Kls[K[4Plogoutscreen -lr newS ls[KS newS -d -m vi report_part1.txtr newS [Kls[K[6Pexitscreen -lsr newS ls[KS newSession vi report_part1.txtls[K[4Plogoutecho $HISTFILESIZE [12Pls ~/.*historyexport HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[K2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 2~2~2~[K[K[K[K[K[K2~[K[K2~2~[K[K[K[K2~[K[K2~2~2~[K[K[K[K[K[Kdate
+[?2004lWed Mar 11 07:18:25 PM +07 2026
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ history | tail
+[?2004l   53  11.03.2026 18:35:28 screen -S newSession vi report_part1.txt
+   54  11.03.2026 18:35:28 screen -ls
+   55  11.03.2026 18:35:28 logout
+   56  11.03.2026 18:42:23 echo $HISTFILESIZE 
+   57  11.03.2026 18:51:49 ls ~/.*
+   58  11.03.2026 18:54:35 history
+   59  11.03.2026 18:56:19 export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '
+   60  11.03.2026 18:56:29 history
+   61  11.03.2026 19:18:25 date
+   62  11.03.2026 19:18:44 history | tail
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ tail ~/.bash_history
+[?2004lscreen -S newS -d -m vi report_part1.txt
+screen -r newS 
+screen -ls
+exit
+screen -ls
+screen -r newS 
+screen -ls
+screen -S newSession vi report_part1.txt
+screen -ls
+logout
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ уч[K[Kexport PROMT[KPT_COMMANF[KD=''h'i's't'o'r'y' '-'a'
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ uname
+[?2004lLinux
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ histiry[K[K[Kory | tail
+[?2004l   57  11.03.2026 18:51:49 ls ~/.*
+   58  11.03.2026 18:54:35 history
+   59  11.03.2026 18:56:19 export HISTTIMEFORMAT='%d.%m.%Y %H:%M:%S '
+   60  11.03.2026 18:56:29 history
+   61  11.03.2026 19:18:25 date
+   62  11.03.2026 19:18:44 history | tail
+   63  11.03.2026 19:19:17 tail ~/.bash_history
+   64  11.03.2026 19:38:10 export PROMPT_COMMAND='history -a'
+   65  11.03.2026 19:38:41 uname
+   66  11.03.2026 19:38:54 history | tail
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ tail ~/.bash_
+.bash_history  .bash_logout   
+[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ tail ~/.bash_history 
+[?2004l#1773231524
+history | tail
+#1773231557
+tail ~/.bash_history
+#1773232690
+export PROMPT_COMMAND='history -a'
+#1773232721
+uname
+#1773232734
+history | tail
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ DATE=$()d)a)t)e) )+)%)F)
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE
+[?2004l2026-03-11
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$()t)i)nm)[1P)[1P)m)e) )+)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ TIME=$(time +)%)T)[1P +%T)[1P +%T)[1P +%T)[1P +%T)d +%T)a +%T)t +%T)er +%T)[1P +%T)
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME
+[?2004l19:43:31
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ DATE_TIME [K-[K=''[K[K""$"D"A"T"E" "$"T"I"M"E"
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DARE[K[KTE_TIENM[K[K[KM<E[K[KE
+[?2004l2026-03-11 19:43:31
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ аштв[K[K[K[Kfint [K[Kd /bin /sbin -maxdepth 1 -tyo[Kpe f -rin[K[K[Kprintf ""&"f"/" [A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf/n" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C%f/n"[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C | grep ''[']'0]'-]'9]'
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ды[K[Kls
+[?2004leltex-pg2-v2_part.log  report_part1.txt
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ды [K[K[Kls/[K /bin
+[?2004l[0m[01;32m'['[0m                                   [01;36mnisdomainname[0m
+ [01;32maa-enabled[0m                           [01;32mnl[0m
+ [01;32maa-exec[0m                              [01;36mnm[0m
+ [01;32maa-features-abi[0m                      [01;32mnmap[0m
+ [01;32maddpart[0m                              [01;32mnohup[0m
+ [01;36maddr2line[0m                            [01;32mnormalizer[0m
+ [01;36mapropos[0m                              [01;32mnping[0m
+ [01;32mapt[0m                                  [01;32mnproc[0m
+ [01;32mapt-cache[0m                            [01;32mnroff[0m
+ [01;32mapt-cdrom[0m                            [01;32mnsenter[0m
+ [01;32mapt-config[0m                           [01;32mnslookup[0m
+ [01;32mapt-extracttemplates[0m                 [01;32mnstat[0m
+ [01;32mapt-ftparchive[0m                       [01;32mnsupdate[0m
+ [01;32mapt-get[0m                              [01;32mnumfmt[0m
+ [01;32mapt-key[0m                              [01;36mobjcopy[0m
+ [01;32mapt-listchanges[0m                      [01;36mobjdump[0m
+ [01;32mapt-mark[0m                             [01;32mod[0m
+ [01;32mapt-sortpkgs[0m                         [01;36mopen[0m
+ [01;36mar[0m                                   [01;32mopenssl[0m
+ [01;32march[0m                                 [01;32mopenvt[0m
+ [01;36mas[0m                                   [01;32mos-prober[0m
+ [01;36mawk[0m                                  [01;36mpager[0m
+ [01;32mb2sum[0m                                [01;32mpartx[0m
+ [01;32mbase32[0m                               [37;41mpasswd[0m
+ [01;32mbase64[0m                               [01;32mpaste[0m
+ [01;32mbasename[0m                             [01;32mpathchk[0m
+ [01;32mbasenc[0m                               [01;36mpdb3[0m
+ [01;32mbash[0m                                 [01;36mpdb3.11[0m
+ [01;32mbashbug[0m                              [01;32mperl[0m
+ [01;32mbtop[0m                                 [01;32mperl5.36.0[0m
+ [01;32mbuildhash[0m                            [01;32mperl5.36-x86_64-linux-gnu[0m
+ [01;32mbunzip2[0m                              [01;32mperlbug[0m
+ [01;32mbusctl[0m                               [01;32mperldoc[0m
+ [01;32mbusybox[0m                              [01;32mperlivp[0m
+ [01;32mbzcat[0m                                [01;32mperlthanks[0m
+ [01;36mbzcmp[0m                                [01;32mpgrep[0m
+ [01;32mbzdiff[0m                               [01;32mpic[0m
+ [01;36mbzegrep[0m                              [01;36mpico[0m
+ [01;32mbzexe[0m                                [01;32mpiconv[0m
+ [01;36mbzfgrep[0m                              [01;36mpidof[0m
+ [01;32mbzgrep[0m                               [01;32mpidwait[0m
+ [01;32mbzip2[0m                                [01;32mping[0m
+ [01;32mbzip2recover[0m                         [01;36mping4[0m
+ [01;36mbzless[0m                               [01;36mping6[0m
+ [01;32mbzmore[0m                               [01;32mpinky[0m
+ [01;36mc89[0m                                  [01;36mpkill[0m
+ [01;32mc89-gcc[0m                              [01;32mpl2pm[0m
+ [01;36mc99[0m                                  [01;32mpldd[0m
+ [01;32mc99-gcc[0m                              [01;32mpmap[0m
+ [01;36mcaptoinfo[0m                            [01;32mpod2html[0m
+ [01;32mcat[0m                                  [01;32mpod2man[0m
+ [01;32mcatman[0m                               [01;32mpod2text[0m
+ [01;36mcc[0m                                   [01;32mpod2usage[0m
+ [01;36mc++filt[0m                              [01;32mpodchecker[0m
+ [30;43mchage[0m                                [01;32mpr[0m
+ [01;36mchardet[0m                              [01;32mpreconv[0m
+ [01;32mchardetect[0m                           [01;36mprint[0m
+ [01;32mchattr[0m                               [01;32mprintenv[0m
+ [01;32mchcon[0m                                [01;32mprintf[0m
+ [37;41mchfn[0m                                 [01;32mprlimit[0m
+ [01;32mchgrp[0m                                [01;32mprove[0m
+ [01;32mchmod[0m                                [01;32mps[0m
+ [01;32mchoom[0m                                [01;36mpsfaddtable[0m
+ [01;32mchown[0m                                [01;36mpsfgettable[0m
+ [01;32mchrt[0m                                 [01;36mpsfstriptable[0m
+ [37;41mchsh[0m                                 [01;32mpsfxtable[0m
+ [01;32mchvt[0m                                 [01;32mptar[0m
+ [01;32mckbcomp[0m                              [01;32mptardiff[0m
+ [01;32mcksum[0m                                [01;32mptargrep[0m
+ [01;32mclear[0m                                [01;32mptx[0m
+ [01;32mclear_console[0m                        [01;32mpwd[0m
+ [01;32mcmp[0m                                  [01;32mpwdx[0m
+ [01;32mcodepage[0m                             [01;32mpy3clean[0m
+ [01;32mcol[0m                                  [01;32mpy3compile[0m
+ [01;32mcolcrt[0m                               [01;36mpy3versions[0m
+ [01;32mcolrm[0m                                [01;36mpydoc3[0m
+ [01;32mcolumn[0m                               [01;32mpydoc3.11[0m
+ [01;32mcomm[0m                                 [01;36mpygettext3[0m
+ [01;36mcompose[0m                              [01;32mpygettext3.11[0m
+ [01;32mcorelist[0m                             [01;36mpython3[0m
+ [01;32mcp[0m                                   [01;32mpython3.11[0m
+ [01;32mcpan[0m                                 [01;32mpzstd[0m
+ [01;32mcpan5.36-x86_64-linux-gnu[0m            [01;32mquerybts[0m
+ [01;32mcpio[0m                                 [01;36mranlib[0m
+ [01;36mcpp[0m                                  [01;36mrbash[0m
+ [01;36mcpp-12[0m                               [01;32mrdma[0m
+ [01;32mc_rehash[0m                             [01;36mreadelf[0m
+ [30;43mcrontab[0m                              [01;32mreadlink[0m
+ [01;32mcsplit[0m                               [01;32mrealpath[0m
+ [01;36mctstat[0m                               [01;32mrename.ul[0m
+ [01;32mcut[0m                                  [01;32mrenice[0m
+ [01;32mcvtsudoers[0m                           [01;32mreportbug[0m
+ [01;32mdash[0m                                 [01;32mreport-hw[0m
+ [01;32mdate[0m                                 [01;36mreset[0m
+ [01;32mdbus-cleanup-sockets[0m                 [01;32mresizecons[0m
+ [01;32mdbus-daemon[0m                          [01;32mresizepart[0m
+ [01;32mdbus-monitor[0m                         [01;32mrev[0m
+ [01;32mdbus-run-session[0m                     [01;32mrgrep[0m
+ [01;32mdbus-send[0m                            [01;32mrm[0m
+ [01;32mdbus-update-activation-environment[0m   [01;32mrmdir[0m
+ [01;32mdbus-uuidgen[0m                         [01;36mrnano[0m
+ [01;32mdd[0m                                   [01;32mroutel[0m
+ [01;32mdeallocvt[0m                            [01;32mrpcgen[0m
+ [01;32mdebconf[0m                              [01;36mrtstat[0m
+ [01;32mdebconf-apt-progress[0m                 [01;32mruncon[0m
+ [01;32mdebconf-communicate[0m                  [01;32mrun-mailcap[0m
+ [01;32mdebconf-copydb[0m                       [01;32mrun-parts[0m
+ [01;32mdebconf-escape[0m                       [01;36mrview[0m
+ [01;32mdebconf-set-selections[0m               [01;36mrvim[0m
+ [01;32mdebconf-show[0m                         [01;32msavelog[0m
+ [01;32mdebianbts[0m                            [01;32mscp[0m
+ [01;32mdeb-systemd-helper[0m                   [01;32mscreen[0m
+ [01;32mdeb-systemd-invoke[0m                   [01;32mscreendump[0m
+ [01;32mdefmt-c[0m                              [01;32mscript[0m
+ [01;32mdefmt-sh[0m                             [01;32mscriptlive[0m
+ [01;32mdelpart[0m                              [01;32mscriptreplay[0m
+ [01;32mdelv[0m                                 [01;32msdiff[0m
+ [01;32mdf[0m                                   [01;32msed[0m
+ [01;32mdh_bash-completion[0m                   [01;36msee[0m
+ [01;32mdiff[0m                                 [01;32mselect-default-iwrap[0m
+ [01;32mdiff3[0m                                [01;32mselect-editor[0m
+ [01;32mdig[0m                                  [01;32msensible-browser[0m
+ [01;32mdir[0m                                  [01;32msensible-editor[0m
+ [01;32mdircolors[0m                            [01;32msensible-pager[0m
+ [01;32mdirname[0m                              [01;32mseq[0m
+ [01;32mdiscover-config[0m                      [01;32msetarch[0m
+ [01;32mdmesg[0m                                [01;32msetfont[0m
+ [01;36mdnsdomainname[0m                        [01;32msetkeycodes[0m
+ [01;32mdnstap-read[0m                          [01;32msetleds[0m
+ [01;36mdomainname[0m                           [01;32msetlogcons[0m
+ [30;43mdotlockfile[0m                          [01;32msetmetamode[0m
+ [01;32mdpkg[0m                                 [01;32msetpci[0m
+ [01;32mdpkg-deb[0m                             [01;32msetpriv[0m
+ [01;32mdpkg-divert[0m                          [01;32msetsid[0m
+ [01;32mdpkg-maintscript-helper[0m              [01;32msetterm[0m
+ [01;32mdpkg-query[0m                           [01;32msetupcon[0m
+ [01;32mdpkg-realpath[0m                        [01;32msetvtrgb[0m
+ [01;32mdpkg-split[0m                           [01;32msftp[0m
+ [01;32mdpkg-statoverride[0m                    [01;36msg[0m
+ [01;32mdpkg-trigger[0m                         [01;36msh[0m
+ [01;32mdu[0m                                   [01;32msha1sum[0m
+ [01;32mdumpkeys[0m                             [01;32msha224sum[0m
+ [01;36mdwp[0m                                  [01;32msha256sum[0m
+ [01;32mecho[0m                                 [01;32msha384sum[0m
+ [01;36medit[0m                                 [01;32msha512sum[0m
+ [01;36meditor[0m                               [01;32mshasum[0m
+ [01;32megrep[0m                                [01;32mshowconsolefont[0m
+ [01;32meject[0m                                [01;32mshowkey[0m
+ [01;36melfedit[0m                              [01;32mshred[0m
+ [01;32menc2xs[0m                               [01;32mshuf[0m
+ [01;32mencguess[0m                             [01;36msize[0m
+ [01;32menv[0m                                  [01;32mskill[0m
+ [01;32menvsubst[0m                             [01;32mslabtop[0m
+ [01;32meqn[0m                                  [01;32msleep[0m
+ [01;36mex[0m                                   [01;36mslogin[0m
+ [01;32mexpand[0m                               [01;36msnice[0m
+ [30;43mexpiry[0m                               [01;32msoelim[0m
+ [01;32mexpr[0m                                 [01;32msort[0m
+ [01;32mfactor[0m                               [01;32msotruss[0m
+ [01;32mfaillog[0m                              [01;32msplain[0m
+ [01;32mfallocate[0m                            [01;32msplit[0m
+ [01;32mfalse[0m                                [01;32msplitfont[0m
+ [01;32mfgconsole[0m                            [01;32msprof[0m
+ [01;32mfgrep[0m                                [01;32mss[0m
+ [01;32mfile[0m                                 [01;32mssh[0m
+ [01;32mfincore[0m                              [01;32mssh-add[0m
+ [01;32mfind[0m                                 [30;43mssh-agent[0m
+ [01;32mfindaffix[0m                            [01;32mssh-argv0[0m
+ [01;32mfindmnt[0m                              [01;32mssh-copy-id[0m
+ [01;32mflock[0m                                [01;32mssh-keygen[0m
+ [01;32mfmt[0m                                  [01;32mssh-keyscan[0m
+ [01;32mfold[0m                                 [01;32msshpass[0m
+ [01;32mfree[0m                                 [01;32mstat[0m
+ [01;36mgcc[0m                                  [01;32mstdbuf[0m
+ [01;36mgcc-12[0m                               [01;32mstrace[0m
+ [01;36mgcc-ar[0m                               [01;32mstrace-log-merge[0m
+ [01;36mgcc-ar-12[0m                            [01;32mstreamzip[0m
+ [01;36mgcc-nm[0m                               [01;36mstrings[0m
+ [01;36mgcc-nm-12[0m                            [01;36mstrip[0m
+ [01;36mgcc-ranlib[0m                           [01;32mstty[0m
+ [01;36mgcc-ranlib-12[0m                        [37;41msu[0m
+ [01;36mgcov[0m                                 [37;41msudo[0m
+ [01;36mgcov-12[0m                              [01;36msudoedit[0m
+ [01;36mgcov-dump[0m                            [01;32msudoreplay[0m
+ [01;36mgcov-dump-12[0m                         [01;32msum[0m
+ [01;36mgcov-tool[0m                            [01;32msync[0m
+ [01;36mgcov-tool-12[0m                         [01;32msystemctl[0m
+ [01;32mgencat[0m                               [01;36msystemd[0m
+ [01;36mgeqn[0m                                 [01;32msystemd-analyze[0m
+ [01;32mgetconf[0m                              [01;32msystemd-ask-password[0m
+ [01;32mgetent[0m                               [01;32msystemd-cat[0m
+ [01;32mgetkeycodes[0m                          [01;32msystemd-cgls[0m
+ [01;32mgetopt[0m                               [01;32msystemd-cgtop[0m
+ [01;32mgettext[0m                              [01;32msystemd-creds[0m
+ [01;32mgettext.sh[0m                           [01;32msystemd-cryptenroll[0m
+ [01;36mgold[0m                                 [01;32msystemd-delta[0m
+ [01;36mgp-archive[0m                           [01;32msystemd-detect-virt[0m
+ [37;41mgpasswd[0m                              [01;32msystemd-escape[0m
+ [01;36mgp-collect-app[0m                       [01;32msystemd-firstboot[0m
+ [01;36mgp-display-html[0m                      [01;32msystemd-hwdb[0m
+ [01;36mgp-display-src[0m                       [01;32msystemd-id128[0m
+ [01;36mgp-display-text[0m                      [01;32msystemd-inhibit[0m
+ [01;32mgpgv[0m                                 [01;32msystemd-machine-id-setup[0m
+ [01;36mgpic[0m                                 [01;32msystemd-mount[0m
+ [01;36mgprof[0m                                [01;32msystemd-notify[0m
+ [01;36mgprofng[0m                              [01;32msystemd-path[0m
+ [01;32mgrep[0m                                 [01;32msystemd-repart[0m
+ [01;32mgroff[0m                                [01;32msystemd-run[0m
+ [01;32mgrog[0m                                 [01;32msystemd-socket-activate[0m
+ [01;32mgrops[0m                                [01;32msystemd-stdio-bridge[0m
+ [01;32mgrotty[0m                               [01;32msystemd-sysext[0m
+ [01;32mgroups[0m                               [01;32msystemd-sysusers[0m
+ [01;32mgrub-editenv[0m                         [01;32msystemd-tmpfiles[0m
+ [01;32mgrub-file[0m                            [01;32msystemd-tty-ask-password-agent[0m
+ [01;32mgrub-fstest[0m                          [01;36msystemd-umount[0m
+ [01;32mgrub-glue-efi[0m                        [01;32mtabs[0m
+ [01;32mgrub-kbdcomp[0m                         [01;32mtac[0m
+ [01;32mgrub-menulst2cfg[0m                     [01;32mtail[0m
+ [01;32mgrub-mkfont[0m                          [01;32mtar[0m
+ [01;32mgrub-mkimage[0m                         [01;32mtasksel[0m
+ [01;32mgrub-mklayout[0m                        [01;32mtaskset[0m
+ [01;32mgrub-mknetdir[0m                        [01;32mtbl[0m
+ [01;32mgrub-mkpasswd-pbkdf2[0m                 [01;32mtee[0m
+ [01;32mgrub-mkrelpath[0m                       [01;36mtelnet[0m
+ [01;32mgrub-mkrescue[0m                        [01;32mtempfile[0m
+ [01;32mgrub-mkstandalone[0m                    [01;32mtest[0m
+ [01;32mgrub-mount[0m                           [01;32mtic[0m
+ [01;36mgrub-ntldr-img[0m                       [01;32mtimedatectl[0m
+ [01;32mgrub-render-label[0m                    [01;32mtimeout[0m
+ [01;32mgrub-script-check[0m                    [01;32mtload[0m
+ [01;32mgrub-syslinux2cfg[0m                    [01;32mtoe[0m
+ [01;36mgtbl[0m                                 [01;32mtop[0m
+ [01;32mgunzip[0m                               [01;32mtouch[0m
+ [01;32mgzexe[0m                                [01;32mtput[0m
+ [01;32mgzip[0m                                 [01;32mtr[0m
+ [01;32mh2ph[0m                                 [01;36mtraceproto[0m
+ [01;32mh2xs[0m                                 [01;32mtraceproto.db[0m
+ [01;32mhardlink[0m                             [01;36mtraceroute[0m
+ [01;36mhd[0m                                   [01;36mtraceroute6[0m
+ [01;32mhead[0m                                 [01;36mtraceroute6.db[0m
+ [01;32mhelpztags[0m                            [01;32mtraceroute.db[0m
+ [01;32mhexdump[0m                              [01;32mtraceroute-nanog[0m
+ [01;32mhost[0m                                 [01;32mtroff[0m
+ [01;32mhostid[0m                               [01;32mtrue[0m
+ [01;32mhostname[0m                             [01;32mtruncate[0m
+ [01;32mhostnamectl[0m                          [01;32mtryaffix[0m
+ [01;32mhtop[0m                                 [01;32mtset[0m
+ [01;36mi386[0m                                 [01;32mtsort[0m
+ [01;32micombine[0m                             [01;32mtty[0m
+ [01;32miconv[0m                                [01;32mtzselect[0m
+ [01;32mid[0m                                   [01;32mucf[0m
+ [01;32mijoin[0m                                [01;32mucfq[0m
+ [01;32minetutils-telnet[0m                     [01;32mucfr[0m
+ [01;32minfocmp[0m                              [01;32muclampset[0m
+ [01;36minfotocap[0m                            [01;32mudevadm[0m
+ [01;32minstall[0m                              [01;32mul[0m
+ [01;32minstmodsh[0m                            [37;41mumount[0m
+ [01;32mionice[0m                               [01;32muname[0m
+ [01;32mip[0m                                   [01;32muncompress[0m
+ [01;32mipcmk[0m                                [01;32munexpand[0m
+ [01;32mipcrm[0m                                [01;32municode_start[0m
+ [01;32mipcs[0m                                 [01;32municode_stop[0m
+ [01;32mischroot[0m                             [01;32muniq[0m
+ [01;32mispell[0m                               [01;32munlink[0m
+ [01;32mispell-wrapper[0m                       [01;36munlzma[0m
+ [01;32mjoin[0m                                 [01;32munmkinitramfs[0m
+ [01;32mjournalctl[0m                           [01;32munshare[0m
+ [01;32mjson_pp[0m                              [01;36munxz[0m
+ [01;32mkbdinfo[0m                              [01;36munzstd[0m
+ [01;32mkbd_mode[0m                             [01;32mupdate-alternatives[0m
+ [01;32mkernel-install[0m                       [01;32mupdate-mime-database[0m
+ [01;32mkill[0m                                 [01;32muptime[0m
+ [01;32mkmod[0m                                 [01;32musb-devices[0m
+ [01;32mlaptop-detect[0m                        [01;32musbhid-dump[0m
+ [01;32mlast[0m                                 [01;32musbreset[0m
+ [01;36mlastb[0m                                [01;32musers[0m
+ [01;32mlastlog[0m                              [01;32mutmpdump[0m
+ [01;32mlcf[0m                                  [01;32mvdir[0m
+ [01;36mld[0m                                   [01;36mvi[0m
+ [01;36mld.bfd[0m                               [01;36mview[0m
+ [01;32mldd[0m                                  [01;36mvim[0m
+ [01;36mld.gold[0m                              [01;32mvim.basic[0m
+ [01;36mld.so[0m                                [01;36mvimdiff[0m
+ [01;32mless[0m                                 [01;32mvim.tiny[0m
+ [01;32mlessecho[0m                             [01;32mvimtutor[0m
+ [01;36mlessfile[0m                             [01;32mvmstat[0m
+ [01;32mlesskey[0m                              [01;32mw[0m
+ [01;32mlesspipe[0m                             [01;32mwall[0m
+ [01;32mlexgrog[0m                              [01;32mwatch[0m
+ [01;36mlft[0m                                  [01;32mwc[0m
+ [01;32mlft.db[0m                               [01;32mwdctl[0m
+ [01;32mlibnetcfg[0m                            [01;32mwget[0m
+ [01;32mlink[0m                                 [01;32mwhatis[0m
+ [01;36mlinux32[0m                              [01;32mwhereis[0m
+ [01;36mlinux64[0m                              [01;36mwhich[0m
+ [01;32mlinux-boot-prober[0m                    [01;32mwhich.debianutils[0m
+ [01;32mlinux-check-removal[0m                  [01;32mwhiptail[0m
+ [01;32mlinux-update-symlinks[0m                [01;32mwho[0m
+ [01;32mlinux-version[0m                        [01;32mwhoami[0m
+ [01;32mln[0m                                   [01;32mwrite[0m
+ [01;32mlnstat[0m                               [01;36mx86_64[0m
+ [01;32mloadkeys[0m                             [01;32mx86_64-linux-gnu-addr2line[0m
+ [01;32mloadunimap[0m                           [01;32mx86_64-linux-gnu-ar[0m
+ [01;32mlocale[0m                               [01;32mx86_64-linux-gnu-as[0m
+ [01;32mlocalectl[0m                            [01;32mx86_64-linux-gnu-c++filt[0m
+ [01;32mlocaledef[0m                            [01;36mx86_64-linux-gnu-cpp[0m
+ [01;32mlogger[0m                               [01;32mx86_64-linux-gnu-cpp-12[0m
+ [01;32mlogin[0m                                [01;32mx86_64-linux-gnu-dwp[0m
+ [01;32mloginctl[0m                             [01;32mx86_64-linux-gnu-elfedit[0m
+ [01;32mlogname[0m                              [01;36mx86_64-linux-gnu-gcc[0m
+ [01;32mlook[0m                                 [01;32mx86_64-linux-gnu-gcc-12[0m
+ [01;32mls[0m                                   [01;36mx86_64-linux-gnu-gcc-ar[0m
+ [01;32mlsattr[0m                               [01;32mx86_64-linux-gnu-gcc-ar-12[0m
+ [01;32mlsblk[0m                                [01;36mx86_64-linux-gnu-gcc-nm[0m
+ [01;32mlsb_release[0m                          [01;32mx86_64-linux-gnu-gcc-nm-12[0m
+ [01;32mlscpu[0m                                [01;36mx86_64-linux-gnu-gcc-ranlib[0m
+ [01;32mlsfd[0m                                 [01;32mx86_64-linux-gnu-gcc-ranlib-12[0m
+ [01;32mlsinitramfs[0m                          [01;36mx86_64-linux-gnu-gcov[0m
+ [01;32mlsipc[0m                                [01;32mx86_64-linux-gnu-gcov-12[0m
+ [01;32mlsirq[0m                                [01;36mx86_64-linux-gnu-gcov-dump[0m
+ [01;32mlslocks[0m                              [01;32mx86_64-linux-gnu-gcov-dump-12[0m
+ [01;32mlslogins[0m                             [01;36mx86_64-linux-gnu-gcov-tool[0m
+ [01;32mlsmem[0m                                [01;32mx86_64-linux-gnu-gcov-tool-12[0m
+ [01;36mlsmod[0m                                [01;36mx86_64-linux-gnu-gold[0m
+ [01;32mlsns[0m                                 [01;32mx86_64-linux-gnu-gp-archive[0m
+ [01;32mlsof[0m                                 [01;32mx86_64-linux-gnu-gp-collect-app[0m
+ [01;32mlspci[0m                                [01;32mx86_64-linux-gnu-gp-display-html[0m
+ [01;32mlsusb[0m                                [01;32mx86_64-linux-gnu-gp-display-src[0m
+ [01;36mlto-dump[0m                             [01;32mx86_64-linux-gnu-gp-display-text[0m
+ [01;36mlto-dump-12[0m                          [01;32mx86_64-linux-gnu-gprof[0m
+ [01;36mlzcat[0m                                [01;32mx86_64-linux-gnu-gprofng[0m
+ [01;36mlzcmp[0m                                [01;36mx86_64-linux-gnu-ld[0m
+ [01;36mlzdiff[0m                               [01;32mx86_64-linux-gnu-ld.bfd[0m
+ [01;36mlzegrep[0m                              [01;32mx86_64-linux-gnu-ld.gold[0m
+ [01;36mlzfgrep[0m                              [01;36mx86_64-linux-gnu-lto-dump[0m
+ [01;36mlzgrep[0m                               [01;32mx86_64-linux-gnu-lto-dump-12[0m
+ [01;36mlzless[0m                               [01;32mx86_64-linux-gnu-nm[0m
+ [01;36mlzma[0m                                 [01;32mx86_64-linux-gnu-objcopy[0m
+ [01;32mlzmainfo[0m                             [01;32mx86_64-linux-gnu-objdump[0m
+ [01;36mlzmore[0m                               [01;32mx86_64-linux-gnu-ranlib[0m
+ [01;32mman[0m                                  [01;32mx86_64-linux-gnu-readelf[0m
+ [01;32mmandb[0m                                [01;32mx86_64-linux-gnu-size[0m
+ [01;32mmanpath[0m                              [01;32mx86_64-linux-gnu-strings[0m
+ [01;32mman-recode[0m                           [01;32mx86_64-linux-gnu-strip[0m
+ [01;32mmapscrn[0m                              [01;32mxargs[0m
+ [01;32mmawk[0m                                 [01;32mxauth[0m
+ [01;32mmcookie[0m                              [01;32mxdg-user-dir[0m
+ [01;32mmd5sum[0m                               [01;32mxdg-user-dirs-update[0m
+ [01;36mmd5sum.textutils[0m                     [01;32mxsubpp[0m
+ [01;32mmdig[0m                                 [01;32mxz[0m
+ [01;32mmemusage[0m                             [01;36mxzcat[0m
+ [01;32mmemusagestat[0m                         [01;36mxzcmp[0m
+ [01;32mmesg[0m                                 [01;32mxzdiff[0m
+ [01;32mmkdir[0m                                [01;36mxzegrep[0m
+ [01;32mmkfifo[0m                               [01;36mxzfgrep[0m
+ [01;32mmk_modmap[0m                            [01;32mxzgrep[0m
+ [01;32mmknod[0m                                [01;32mxzless[0m
+ [01;32mmktemp[0m                               [01;32mxzmore[0m
+ [01;32mmore[0m                                 [01;32myes[0m
+ [37;41mmount[0m                                [01;36mypdomainname[0m
+ [01;32mmountpoint[0m                           [01;32mzcat[0m
+ [01;36mmt[0m                                   [01;32mzcmp[0m
+ [01;32mmt-gnu[0m                               [01;32mzdiff[0m
+ [01;32mmtrace[0m                               [01;32mzdump[0m
+ [01;32mmunchlist[0m                            [01;32mzegrep[0m
+ [01;32mmv[0m                                   [01;32mzfgrep[0m
+ [01;32mnamei[0m                                [01;32mzforce[0m
+ [01;32mnano[0m                                 [01;32mzgrep[0m
+ [01;36mnawk[0m                                 [01;32mzipdetails[0m
+ [01;36mnc[0m                                   [01;32mzless[0m
+ [01;32mnc.traditional[0m                       [01;32mzmore[0m
+ [01;32mneqn[0m                                 [01;32mznew[0m
+ [01;36mnetcat[0m                               [01;32mzstd[0m
+ [01;32mnetworkctl[0m                           [01;36mzstdcat[0m
+ [37;41mnewgrp[0m                               [01;32mzstdgrep[0m
+ [01;32mngettext[0m                             [01;32mzstdless[0m
+ [01;32mnice[0m                                 [01;36mzstdmt[0m
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE_TIME[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"[13Pecho $TIMETIME=$(date +%T)[6Pecho $DATEDATE=$(date +%F)tail ~/.bash_history [5PDATE=$(date +%F)[6Pecho $DATETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEDATE_TIME="$DATE $TIME"[13Pecho $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIME[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $TIMETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /bin /sbin | grep ''[']'0]'-]'9]'
+[?2004laddr2line
+b2sum
+base32
+base64
+bunzip2
+bzip2
+bzip2recover
+c89
+c89-gcc
+c99
+c99-gcc
+cpan5.36-x86_64-linux-gnu
+cpp-12
+diff3
+enc2xs
+gcc-12
+gcc-ar-12
+gcc-nm-12
+gcc-ranlib-12
+gcov-12
+gcov-dump-12
+gcov-tool-12
+grub-menulst2cfg
+grub-mkpasswd-pbkdf2
+grub-syslinux2cfg
+h2ph
+h2xs
+i386
+linux32
+linux64
+lto-dump-12
+md5sum
+md5sum.textutils
+pdb3
+pdb3.11
+perl5.36.0
+perl5.36-x86_64-linux-gnu
+ping4
+ping6
+pl2pm
+pod2html
+pod2man
+pod2text
+pod2usage
+py3clean
+py3compile
+py3versions
+pydoc3
+pydoc3.11
+pygettext3
+pygettext3.11
+python3
+python3.11
+sha1sum
+sha224sum
+sha256sum
+sha384sum
+sha512sum
+ssh-argv0
+systemd-id128
+traceroute6
+traceroute6.db
+x86_64
+x86_64-linux-gnu-addr2line
+x86_64-linux-gnu-ar
+x86_64-linux-gnu-as
+x86_64-linux-gnu-c++filt
+x86_64-linux-gnu-cpp
+x86_64-linux-gnu-cpp-12
+x86_64-linux-gnu-dwp
+x86_64-linux-gnu-elfedit
+x86_64-linux-gnu-gcc
+x86_64-linux-gnu-gcc-12
+x86_64-linux-gnu-gcc-ar
+x86_64-linux-gnu-gcc-ar-12
+x86_64-linux-gnu-gcc-nm
+x86_64-linux-gnu-gcc-nm-12
+x86_64-linux-gnu-gcc-ranlib
+x86_64-linux-gnu-gcc-ranlib-12
+x86_64-linux-gnu-gcov
+x86_64-linux-gnu-gcov-12
+x86_64-linux-gnu-gcov-dump
+x86_64-linux-gnu-gcov-dump-12
+x86_64-linux-gnu-gcov-tool
+x86_64-linux-gnu-gcov-tool-12
+x86_64-linux-gnu-gold
+x86_64-linux-gnu-gp-archive
+x86_64-linux-gnu-gp-collect-app
+x86_64-linux-gnu-gp-display-html
+x86_64-linux-gnu-gp-display-src
+x86_64-linux-gnu-gp-display-text
+x86_64-linux-gnu-gprof
+x86_64-linux-gnu-gprofng
+x86_64-linux-gnu-ld
+x86_64-linux-gnu-ld.bfd
+x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-lto-dump
+x86_64-linux-gnu-lto-dump-12
+x86_64-linux-gnu-nm
+x86_64-linux-gnu-objcopy
+x86_64-linux-gnu-objdump
+x86_64-linux-gnu-ranlib
+x86_64-linux-gnu-readelf
+x86_64-linux-gnu-size
+x86_64-linux-gnu-strings
+x86_64-linux-gnu-strip
+dumpe2fs
+e2freefrag
+e2fsck
+e2image
+e2label
+e2mmpstatus
+e2scrub
+e2scrub_all
+e2undo
+e4crypt
+e4defrag
+fsck.ext2
+fsck.ext3
+fsck.ext4
+killall5
+mke2fs
+mkfs.ext2
+mkfs.ext3
+mkfs.ext4
+resize2fs
+tune2fs
+update-grub2
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE_TIME[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"[13Pecho $TIMETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /bin /sbin | grep '[0-9]'[K[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE_TIME[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"[13Pecho $TIMETIME=$(date +%T)[6Pecho $DATEDATE=$(date +%F)tail ~/.bash_history [7Phistory | tail[9Punameexport PROMPT_COMMAND='history -a'[14Ptail ~/.bash_history[6Phistory | tailtail ~/.bash_historyexport PROMPT_COMMAND='history -a'uname[Khistory | tailtail ~/.bash_history [5PDATE=$(date +%F)[6Pecho $DATETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /bin /sbin | grep '[0-9]'[K[K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [K[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C |[1P[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | [1P[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | g[1P[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | gr[1P[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | gre[1P[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C| grep[1P '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep [1P'[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[1P[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[[1P0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[0[1P-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[0-[1P9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[0-9[1P]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | grep '[0-9][1P'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C| grep '[0-9]'[K[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -maxdepth 1 -type f | grep '[0-9]'[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -type f | grep '[0-9]' [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ 
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type f | grep '[0-9]'[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type f [1P в [1P d 
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type d |[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfind /bin /sbin -type f | grep '[0-9]'maxdepth 1 -type f | grep '[0-9]'[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -type f -printf "%f/n" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type f -printf "%f/n"[C[1P[1@d
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type d -printf "%f/n"f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type f | grep '[0-9]'[2Pmaxdepth 1 -type f type f | grep '[0-9]'[K[Kfind /bin /sbin -type f -printf "%f/n"d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type d -printf "%f/n"f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type f | grep '[0-9]'[2Pmaxdepth 1 -type f [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pls /bin /sbin | grep '[0-9]'[K[K /bin /sbin | grep '[0-9]'find /bin /sbin -maxdepth 1 -type f [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE_TIME[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"[13Pecho $TIMETIME=$(date +%T)[6Pecho $DATETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /bin /sbin | grep '[0-9]'find /bin /sbin -maxdepth 1 -type f type f | grep '[0-9]'[K[Kfind /bin /sbin -type f -printf "%f/n"d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type d -printf "%f/n"f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type f | grep '[0-9]'[2Pmaxdepth 1 -type f [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pls /bin /sbin | grep '[0-9]'[K[Kfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ echo $DATE_TIME[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDATE_TIME="$DATE $TIME"[13Pecho $TIMETIME=$(date +%T)[6Pecho $DATETIME=$(date +%T)[6Pecho $TIMEDATE_TIME="$DATE $TIME"[8Pecho $DATE_TIMEfind /bin /sbin -maxdepth 1 -type f -printf "%f/n" | grep '[0-9]'[A[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /bin /sbin | grep '[0-9]'find /bin /sbin -maxdepth 1 -type f type f | grep '[0-9]'[K[Kfind /bin /sbin -type f | grep '[0-9]'[K[Kfind /bin /sbin -type f -printf "%f/n"d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type d -printf "%f/n"f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin /sbin -type f -printf "%f/n"[1P/n"d/n"
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin [K | gre[[Kp ''[']'0]'-]'9]'
+[?2004laddr2line
+b2sum
+base32
+base64
+bunzip2
+bzip2
+bzip2recover
+c89
+c89-gcc
+c99
+c99-gcc
+cpan5.36-x86_64-linux-gnu
+cpp-12
+diff3
+enc2xs
+gcc-12
+gcc-ar-12
+gcc-nm-12
+gcc-ranlib-12
+gcov-12
+gcov-dump-12
+gcov-tool-12
+grub-menulst2cfg
+grub-mkpasswd-pbkdf2
+grub-syslinux2cfg
+h2ph
+h2xs
+i386
+linux32
+linux64
+lto-dump-12
+md5sum
+md5sum.textutils
+pdb3
+pdb3.11
+perl5.36.0
+perl5.36-x86_64-linux-gnu
+ping4
+ping6
+pl2pm
+pod2html
+pod2man
+pod2text
+pod2usage
+py3clean
+py3compile
+py3versions
+pydoc3
+pydoc3.11
+pygettext3
+pygettext3.11
+python3
+python3.11
+sha1sum
+sha224sum
+sha256sum
+sha384sum
+sha512sum
+ssh-argv0
+systemd-id128
+traceroute6
+traceroute6.db
+x86_64
+x86_64-linux-gnu-addr2line
+x86_64-linux-gnu-ar
+x86_64-linux-gnu-as
+x86_64-linux-gnu-c++filt
+x86_64-linux-gnu-cpp
+x86_64-linux-gnu-cpp-12
+x86_64-linux-gnu-dwp
+x86_64-linux-gnu-elfedit
+x86_64-linux-gnu-gcc
+x86_64-linux-gnu-gcc-12
+x86_64-linux-gnu-gcc-ar
+x86_64-linux-gnu-gcc-ar-12
+x86_64-linux-gnu-gcc-nm
+x86_64-linux-gnu-gcc-nm-12
+x86_64-linux-gnu-gcc-ranlib
+x86_64-linux-gnu-gcc-ranlib-12
+x86_64-linux-gnu-gcov
+x86_64-linux-gnu-gcov-12
+x86_64-linux-gnu-gcov-dump
+x86_64-linux-gnu-gcov-dump-12
+x86_64-linux-gnu-gcov-tool
+x86_64-linux-gnu-gcov-tool-12
+x86_64-linux-gnu-gold
+x86_64-linux-gnu-gp-archive
+x86_64-linux-gnu-gp-collect-app
+x86_64-linux-gnu-gp-display-html
+x86_64-linux-gnu-gp-display-src
+x86_64-linux-gnu-gp-display-text
+x86_64-linux-gnu-gprof
+x86_64-linux-gnu-gprofng
+x86_64-linux-gnu-ld
+x86_64-linux-gnu-ld.bfd
+x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-lto-dump
+x86_64-linux-gnu-lto-dump-12
+x86_64-linux-gnu-nm
+x86_64-linux-gnu-objcopy
+x86_64-linux-gnu-objdump
+x86_64-linux-gnu-ranlib
+x86_64-linux-gnu-readelf
+x86_64-linux-gnu-size
+x86_64-linux-gnu-strings
+x86_64-linux-gnu-strip
+dumpe2fs
+e2freefrag
+e2fsck
+e2image
+e2label
+e2mmpstatus
+e2scrub
+e2scrub_all
+e2undo
+e4crypt
+e4defrag
+fsck.ext2
+fsck.ext3
+fsck.ext4
+killall5
+mke2fs
+mkfs.ext2
+mkfs.ext3
+mkfs.ext4
+resize2fs
+tune2fs
+update-grub2
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin | grep '[0-9]'[1@-[1@t[1@y[1@p[1@e[1@ [1@f[1@ 
+[?2004lls: invalid option -- 'y'
+Try 'ls --help' for more information.
+[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ls /bin /sbin -type f | grep '[0-9]'[1P[1P[1@f[1@i[1@n[1@d
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin -type f | grep '[0-9]'[C[C[1P[1P[1P[1P[1P[1P[1P[1P
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ find /bin /sbin | grep '[0-9]'[8@-type f [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@p[1@r[1@i[1@n[1@t[1@d[1P[1@f[1@ [1@"[1@"[1P[C[16P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kfind /bin ./[K[K/sbin -typr [K[Ke f -ma[K[Kname ''*'*'[*']*'0]*'-]*'9]*'
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ ЗЫ[K[KPS1=''\'u'@'\'h'-'$'(')'d)'a)'t)'e)' )'+)'%)'%)'H%)':%)'[CM)'[C>' '
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:07> 
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:08> export PS1
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:08> bash
+[?2004l[?2004h[01;32meltex-pg2-v2@eltex-2026-spring[00m:[01;34m~[00m$ учше[K[K[K[Kexit
+[?2004lexit
+[?2004heltex-pg2-v2@eltex-2026-spring-20:11> bash --norx[Kc
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:12> basg[K[K[K[Kучше[K[K[K[Kexit
+[?2004lexit
+[?2004heltex-pg2-v2@eltex-2026-spring-20:14> mkdir ~\[K/""$")("[1P"[1P"(")"d)"a)"t)"e)" )"+)"%)"y)"[C[C=[K-([K{}0}1}/}/}[1P}[1P}.}.}.}1}2}
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:15> ls
+[?2004l[0m[01;34m26-{01...12}[0m  eltex-pg2-v2_part.log  report_part1.txt
+[?2004heltex-pg2-v2@eltex-2026-spring-20:16> lsmkdir ~/"$(date +%y)"-{01...12}[1P)"-{01...12}Y)"-{01...12}[C[C[C[C[C[C[C[C[1P12}
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:16> ls
+[?2004l[0m[01;34m2026-01[0m  [01;34m2026-04[0m  [01;34m2026-07[0m  [01;34m2026-10[0m  [01;34m26-{01...12}[0m
+[01;34m2026-02[0m  [01;34m2026-05[0m  [01;34m2026-08[0m  [01;34m2026-11[0m  eltex-pg2-v2_part.log
+[01;34m2026-03[0m  [01;34m2026-06[0m  [01;34m2026-09[0m  [01;34m2026-12[0m  report_part1.txt
+[?2004heltex-pg2-v2@eltex-2026-spring-20:16> tm [K[K[Krm -t[Krf 26-\{01...12\}/
+[?2004l[?2004heltex-pg2-v2@eltex-2026-spring-20:17> ls
+[?2004l[0m[01;34m2026-01[0m  [01;34m2026-03[0m  [01;34m2026-05[0m  [01;34m2026-07[0m  [01;34m2026-09[0m  [01;34m2026-11[0m  eltex-pg2-v2_part.log
+[01;34m2026-02[0m  [01;34m2026-04[0m  [01;34m2026-06[0m  [01;34m2026-08[0m  [01;34m2026-10[0m  [01;34m2026-12[0m  report_part1.txt
+[?2004heltex-pg2-v2@eltex-2026-spring-20:17> 
